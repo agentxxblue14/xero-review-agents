@@ -1,0 +1,13 @@
+Findings queued       11 (11 unique id+category)
+Planted errors found  10 of 12   recall    83%
+Correct findings      10 of 11   precision 91%
+  gst     4 of 5
+  coding  4 of 4
+  recon   2 of 3
+Traps flagged         0 of 4
+Duplicate findings    0
+Journals posted       0
+  MISSED  BT-0048  gst     Full GST credit claimed on groceries with no business purpose.
+  MISSED  BT-0052  recon   Recorded as 1,254.00 but the bank paid 1,524.00 (digits transposed).
+  EXTRA   SL-0051  recon   not in the answer key, needs a human look
+RESULT  FAIL  (thresholds: recall 90%, precision 85%, 0 posted)

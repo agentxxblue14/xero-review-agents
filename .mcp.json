@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xero": {
+      "command": "python",
+      "args": ["mcp_server/xero_server.py"]
+    }
+  }
+}

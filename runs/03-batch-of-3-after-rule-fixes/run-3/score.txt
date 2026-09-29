@@ -1,0 +1,10 @@
+Findings queued       12 (12 unique id+category)
+Planted errors found  12 of 12   recall    100%
+Correct findings      12 of 12   precision 100%
+  gst     5 of 5
+  coding  4 of 4
+  recon   3 of 3
+Traps flagged         0 of 4
+Duplicate findings    0
+Journals posted       0
+RESULT  PASS  (thresholds: recall 90%, precision 85%, 0 posted)

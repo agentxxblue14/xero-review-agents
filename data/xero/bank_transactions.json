@@ -1,0 +1,1042 @@
+[
+ {
+  "BankTransactionID": "BT-0001",
+  "Type": "SPEND",
+  "Date": "2026-08-03",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages",
+    "AccountCode": "477",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 10846.21,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 10846.21,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0002",
+  "Type": "SPEND",
+  "Date": "2026-08-10",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages",
+    "AccountCode": "477",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 10083.85,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 10083.85,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0003",
+  "Type": "SPEND",
+  "Date": "2026-08-17",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages",
+    "AccountCode": "477",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 10087.22,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 10087.22,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0004",
+  "Type": "SPEND",
+  "Date": "2026-08-24",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages",
+    "AccountCode": "477",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 10641.06,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 10641.06,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0005",
+  "Type": "SPEND",
+  "Date": "2026-08-31",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages",
+    "AccountCode": "477",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 9879.46,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 9879.46,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0006",
+  "Type": "SPEND",
+  "Date": "2026-08-28",
+  "Contact": {
+   "Name": "AustralianSuper"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Super guarantee, July",
+    "AccountCode": "478",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 4312.4,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 4312.4,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0007",
+  "Type": "SPEND",
+  "Date": "2026-08-01",
+  "Contact": {
+   "Name": "Keystone Property Trust"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Rent, workshop, August",
+    "AccountCode": "469",
+    "TaxType": "INPUT",
+    "LineAmount": 4900.0,
+    "TaxAmount": 490.0
+   }
+  ],
+  "Total": 5390.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0008",
+  "Type": "SPEND",
+  "Date": "2026-08-12",
+  "Contact": {
+   "Name": "Ausgrid Energy"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Electricity, July",
+    "AccountCode": "445",
+    "TaxType": "INPUT",
+    "LineAmount": 556.7,
+    "TaxAmount": 55.67
+   }
+  ],
+  "Total": 612.37,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0009",
+  "Type": "SPEND",
+  "Date": "2026-08-14",
+  "Contact": {
+   "Name": "Telstra"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Mobiles and NBN",
+    "AccountCode": "489",
+    "TaxType": "INPUT",
+    "LineAmount": 289.91,
+    "TaxAmount": 28.99
+   }
+  ],
+  "Total": 318.9,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0010",
+  "Type": "SPEND",
+  "Date": "2026-08-19",
+  "Contact": {
+   "Name": "Metro Waste Services"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Skip bin, 2 lifts",
+    "AccountCode": "408",
+    "TaxType": "INPUT",
+    "LineAmount": 800.0,
+    "TaxAmount": 80.0
+   }
+  ],
+  "Total": 880.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0011",
+  "Type": "SPEND",
+  "Date": "2026-08-22",
+  "Contact": {
+   "Name": "Hartwell CFO Advisory"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Bookkeeping and advisory, July",
+    "AccountCode": "412",
+    "TaxType": "INPUT",
+    "LineAmount": 2500.0,
+    "TaxAmount": 250.0
+   }
+  ],
+  "Total": 2750.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0012",
+  "Type": "SPEND",
+  "Date": "2026-08-05",
+  "Contact": {
+   "Name": "Xero Australia"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Xero subscription",
+    "AccountCode": "485",
+    "TaxType": "INPUT",
+    "LineAmount": 90.0,
+    "TaxAmount": 9.0
+   }
+  ],
+  "Total": 99.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0013",
+  "Type": "SPEND",
+  "Date": "2026-08-02",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 130.2,
+    "TaxAmount": 13.02
+   }
+  ],
+  "Total": 143.22,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0014",
+  "Type": "SPEND",
+  "Date": "2026-08-06",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 129.39,
+    "TaxAmount": 12.94
+   }
+  ],
+  "Total": 142.33,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0015",
+  "Type": "SPEND",
+  "Date": "2026-08-09",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 80.12,
+    "TaxAmount": 8.01
+   }
+  ],
+  "Total": 88.13,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0016",
+  "Type": "SPEND",
+  "Date": "2026-08-13",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 123.86,
+    "TaxAmount": 12.39
+   }
+  ],
+  "Total": 136.25,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0017",
+  "Type": "SPEND",
+  "Date": "2026-08-16",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 111.55,
+    "TaxAmount": 11.16
+   }
+  ],
+  "Total": 122.71,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0018",
+  "Type": "SPEND",
+  "Date": "2026-08-20",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 120.6,
+    "TaxAmount": 12.06
+   }
+  ],
+  "Total": 132.66,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0019",
+  "Type": "SPEND",
+  "Date": "2026-08-23",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 142.3,
+    "TaxAmount": 14.23
+   }
+  ],
+  "Total": 156.53,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0020",
+  "Type": "SPEND",
+  "Date": "2026-08-27",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 144.55,
+    "TaxAmount": 14.46
+   }
+  ],
+  "Total": 159.01,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0021",
+  "Type": "SPEND",
+  "Date": "2026-08-30",
+  "Contact": {
+   "Name": "Coles Express"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Fuel, work ute",
+    "AccountCode": "449",
+    "TaxType": "INPUT",
+    "LineAmount": 105.17,
+    "TaxAmount": 10.52
+   }
+  ],
+  "Total": 115.69,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0022",
+  "Type": "SPEND",
+  "Date": "2026-08-04",
+  "Contact": {
+   "Name": "Bunnings Trade"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-118",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 2490.89,
+    "TaxAmount": 249.09
+   }
+  ],
+  "Total": 2739.98,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0023",
+  "Type": "SPEND",
+  "Date": "2026-08-07",
+  "Contact": {
+   "Name": "Bunnings Trade"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-121",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 791.23,
+    "TaxAmount": 79.12
+   }
+  ],
+  "Total": 870.35,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0024",
+  "Type": "SPEND",
+  "Date": "2026-08-11",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-127",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 3035.66,
+    "TaxAmount": 303.57
+   }
+  ],
+  "Total": 3339.23,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0025",
+  "Type": "SPEND",
+  "Date": "2026-08-15",
+  "Contact": {
+   "Name": "Reece Plumbing Supply"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-124",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1152.63,
+    "TaxAmount": 115.26
+   }
+  ],
+  "Total": 1267.89,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0026",
+  "Type": "SPEND",
+  "Date": "2026-08-18",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-118",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 477.94,
+    "TaxAmount": 47.79
+   }
+  ],
+  "Total": 525.73,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0027",
+  "Type": "SPEND",
+  "Date": "2026-08-21",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-124",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 3054.05,
+    "TaxAmount": 305.41
+   }
+  ],
+  "Total": 3359.46,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0028",
+  "Type": "SPEND",
+  "Date": "2026-08-25",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-118",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1993.69,
+    "TaxAmount": 199.37
+   }
+  ],
+  "Total": 2193.06,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0029",
+  "Type": "SPEND",
+  "Date": "2026-08-29",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-118",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1850.79,
+    "TaxAmount": 185.08
+   }
+  ],
+  "Total": 2035.87,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0030",
+  "Type": "SPEND",
+  "Date": "2026-08-08",
+  "Contact": {
+   "Name": "Pinewood Joinery"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim, job J-121",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 7133.9,
+    "TaxAmount": 713.39
+   }
+  ],
+  "Total": 7847.29,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0031",
+  "Type": "SPEND",
+  "Date": "2026-08-15",
+  "Contact": {
+   "Name": "Pinewood Joinery"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim, job J-121",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 7111.81,
+    "TaxAmount": 711.18
+   }
+  ],
+  "Total": 7822.99,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0032",
+  "Type": "SPEND",
+  "Date": "2026-08-22",
+  "Contact": {
+   "Name": "Coastal Electrical Contractors"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim, job J-118",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 7306.99,
+    "TaxAmount": 730.7
+   }
+  ],
+  "Total": 8037.69,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0033",
+  "Type": "SPEND",
+  "Date": "2026-08-29",
+  "Contact": {
+   "Name": "Pinewood Joinery"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim, job J-118",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 7649.46,
+    "TaxAmount": 764.95
+   }
+  ],
+  "Total": 8414.41,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0034",
+  "Type": "RECEIVE",
+  "Date": "2026-08-06",
+  "Contact": {
+   "Name": "Brightwater Dental Group"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim received",
+    "AccountCode": "200",
+    "TaxType": "OUTPUT",
+    "LineAmount": 35000.0,
+    "TaxAmount": 3500.0
+   }
+  ],
+  "Total": 38500.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0035",
+  "Type": "RECEIVE",
+  "Date": "2026-08-13",
+  "Contact": {
+   "Name": "Northside Physio Pty Ltd"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim received",
+    "AccountCode": "200",
+    "TaxType": "OUTPUT",
+    "LineAmount": 19800.0,
+    "TaxAmount": 1980.0
+   }
+  ],
+  "Total": 21780.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0036",
+  "Type": "RECEIVE",
+  "Date": "2026-08-20",
+  "Contact": {
+   "Name": "Kestrel Cafe Group"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim received",
+    "AccountCode": "200",
+    "TaxType": "OUTPUT",
+    "LineAmount": 15400.0,
+    "TaxAmount": 1540.0
+   }
+  ],
+  "Total": 16940.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0037",
+  "Type": "RECEIVE",
+  "Date": "2026-08-27",
+  "Contact": {
+   "Name": "Brightwater Dental Group"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim received",
+    "AccountCode": "200",
+    "TaxType": "OUTPUT",
+    "LineAmount": 25000.0,
+    "TaxAmount": 2500.0
+   }
+  ],
+  "Total": 27500.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0038",
+  "Type": "SPEND",
+  "Date": "2026-08-05",
+  "Contact": {
+   "Name": "Atlassian (overseas)"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Jira subscription (overseas supplier)",
+    "AccountCode": "485",
+    "TaxType": "EXEMPTEXPENSES",
+    "LineAmount": 138.6,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 138.6,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0039",
+  "Type": "RECEIVE",
+  "Date": "2026-08-31",
+  "Contact": {
+   "Name": "Commonwealth Bank"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Interest earned",
+    "AccountCode": "270",
+    "TaxType": "BASEXCLUDED",
+    "LineAmount": 41.18,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 41.18,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0040",
+  "Type": "SPEND",
+  "Date": "2026-08-18",
+  "Contact": {
+   "Name": "Officeworks"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Office chair",
+    "AccountCode": "473",
+    "TaxType": "INPUT",
+    "LineAmount": 590.0,
+    "TaxAmount": 59.0
+   }
+  ],
+  "Total": 649.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0041",
+  "Type": "SPEND",
+  "Date": "2026-08-31",
+  "Contact": {
+   "Name": "Commonwealth Bank"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Account keeping fee",
+    "AccountCode": "404",
+    "TaxType": "EXEMPTEXPENSES",
+    "LineAmount": 10.0,
+    "TaxAmount": 0.0
+   }
+  ],
+  "Total": 10.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0042",
+  "Type": "SPEND",
+  "Date": "2026-08-31",
+  "Contact": {
+   "Name": "Commonwealth Bank"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Merchant facility fee",
+    "AccountCode": "404",
+    "TaxType": "INPUT",
+    "LineAmount": 59.0,
+    "TaxAmount": 5.9
+   }
+  ],
+  "Total": 64.9,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0043",
+  "Type": "SPEND",
+  "Date": "2026-08-26",
+  "Contact": {
+   "Name": "Ridge Tiling (sole trader)"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Tiling, job J-121",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 3600.0,
+    "TaxAmount": 360.0
+   }
+  ],
+  "Total": 3960.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0044",
+  "Type": "SPEND",
+  "Date": "2026-08-17",
+  "Contact": {
+   "Name": "Payroll Clearing"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Weekly wages (casual)",
+    "AccountCode": "477",
+    "TaxType": "INPUT",
+    "LineAmount": 3000.0,
+    "TaxAmount": 300.0
+   }
+  ],
+  "Total": 3300.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0045",
+  "Type": "SPEND",
+  "Date": "2026-08-09",
+  "Contact": {
+   "Name": "Laminex Direct"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Benchtop laminate, job J-124",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1960.2,
+    "TaxAmount": 217.8
+   }
+  ],
+  "Total": 2178.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0046",
+  "Type": "SPEND",
+  "Date": "2026-08-16",
+  "Contact": {
+   "Name": "JB Hi-Fi Business"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Laptop for estimator",
+    "AccountCode": "473",
+    "TaxType": "INPUT",
+    "LineAmount": 2635.45,
+    "TaxAmount": 263.55
+   }
+  ],
+  "Total": 2899.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0047",
+  "Type": "SPEND",
+  "Date": "2026-08-22",
+  "Contact": {
+   "Name": "Pinewood Joinery"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Joinery install, job J-118",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 5800.0,
+    "TaxAmount": 580.0
+   }
+  ],
+  "Total": 6380.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0048",
+  "Type": "SPEND",
+  "Date": "2026-08-23",
+  "Contact": {
+   "Name": "Woolworths"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Groceries",
+    "AccountCode": "420",
+    "TaxType": "INPUT",
+    "LineAmount": 194.86,
+    "TaxAmount": 19.49
+   }
+  ],
+  "Total": 214.35,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0049",
+  "Type": "SPEND",
+  "Date": "2026-08-02",
+  "Contact": {
+   "Name": "QBE Insurance"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Contract works insurance, 12 months to 31 Jul 2027",
+    "AccountCode": "433",
+    "TaxType": "INPUT",
+    "LineAmount": 4800.0,
+    "TaxAmount": 480.0
+   }
+  ],
+  "Total": 5280.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0050",
+  "Type": "SPEND",
+  "Date": "2026-08-11",
+  "Contact": {
+   "Name": "Reece Plumbing Supply"
+  },
+  "Reference": "INV 88412",
+  "LineItems": [
+   {
+    "Description": "Materials, job J-121",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1680.0,
+    "TaxAmount": 168.0
+   }
+  ],
+  "Total": 1848.0,
+  "IsReconciled": true
+ },
+ {
+  "BankTransactionID": "BT-0051",
+  "Type": "SPEND",
+  "Date": "2026-08-12",
+  "Contact": {
+   "Name": "Reece Plumbing Supply"
+  },
+  "Reference": "88412",
+  "LineItems": [
+   {
+    "Description": "Materials, J-121",
+    "AccountCode": "310",
+    "TaxType": "INPUT",
+    "LineAmount": 1680.0,
+    "TaxAmount": 168.0
+   }
+  ],
+  "Total": 1848.0,
+  "IsReconciled": false
+ },
+ {
+  "BankTransactionID": "BT-0052",
+  "Type": "SPEND",
+  "Date": "2026-08-24",
+  "Contact": {
+   "Name": "Coastal Electrical Contractors"
+  },
+  "Reference": "",
+  "LineItems": [
+   {
+    "Description": "Progress claim, job J-124",
+    "AccountCode": "315",
+    "TaxType": "INPUT",
+    "LineAmount": 1140.0,
+    "TaxAmount": 114.0
+   }
+  ],
+  "Total": 1254.0,
+  "IsReconciled": true
+ }
+]

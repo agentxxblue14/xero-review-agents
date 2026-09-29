@@ -1,0 +1,140 @@
+[
+ {
+  "Code": "090",
+  "Name": "Business Bank Account",
+  "Type": "BANK",
+  "TaxType": "BASEXCLUDED"
+ },
+ {
+  "Code": "200",
+  "Name": "Sales: Fitout Contracts",
+  "Type": "REVENUE",
+  "TaxType": "OUTPUT"
+ },
+ {
+  "Code": "260",
+  "Name": "Other Revenue",
+  "Type": "REVENUE",
+  "TaxType": "OUTPUT"
+ },
+ {
+  "Code": "270",
+  "Name": "Interest Income",
+  "Type": "REVENUE",
+  "TaxType": "BASEXCLUDED"
+ },
+ {
+  "Code": "310",
+  "Name": "Materials",
+  "Type": "DIRECTCOSTS",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "315",
+  "Name": "Subcontractors",
+  "Type": "DIRECTCOSTS",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "404",
+  "Name": "Bank Fees",
+  "Type": "EXPENSE",
+  "TaxType": "EXEMPTEXPENSES"
+ },
+ {
+  "Code": "408",
+  "Name": "Cleaning",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "412",
+  "Name": "Consulting & Accounting",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "420",
+  "Name": "Entertainment",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "433",
+  "Name": "Insurance",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "445",
+  "Name": "Light, Power, Heating",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "449",
+  "Name": "Motor Vehicle Expenses",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "469",
+  "Name": "Rent",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "473",
+  "Name": "Repairs and Maintenance",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "477",
+  "Name": "Wages and Salaries",
+  "Type": "EXPENSE",
+  "TaxType": "BASEXCLUDED"
+ },
+ {
+  "Code": "478",
+  "Name": "Superannuation",
+  "Type": "EXPENSE",
+  "TaxType": "BASEXCLUDED"
+ },
+ {
+  "Code": "485",
+  "Name": "Subscriptions",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "489",
+  "Name": "Telephone & Internet",
+  "Type": "EXPENSE",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "620",
+  "Name": "Prepayments",
+  "Type": "CURRENT",
+  "TaxType": "BASEXCLUDED"
+ },
+ {
+  "Code": "710",
+  "Name": "Office Equipment",
+  "Type": "FIXED",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "720",
+  "Name": "Computer Equipment",
+  "Type": "FIXED",
+  "TaxType": "INPUT"
+ },
+ {
+  "Code": "880",
+  "Name": "Owner A Drawings",
+  "Type": "EQUITY",
+  "TaxType": "BASEXCLUDED"
+ }
+]

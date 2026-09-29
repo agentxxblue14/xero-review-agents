@@ -1,0 +1,366 @@
+[
+ {
+  "StatementLineID": "SL-0001",
+  "Date": "2026-08-03",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -10846.21,
+  "MatchedTransactionID": "BT-0001"
+ },
+ {
+  "StatementLineID": "SL-0002",
+  "Date": "2026-08-10",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -10083.85,
+  "MatchedTransactionID": "BT-0002"
+ },
+ {
+  "StatementLineID": "SL-0003",
+  "Date": "2026-08-17",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -10087.22,
+  "MatchedTransactionID": "BT-0003"
+ },
+ {
+  "StatementLineID": "SL-0004",
+  "Date": "2026-08-24",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -10641.06,
+  "MatchedTransactionID": "BT-0004"
+ },
+ {
+  "StatementLineID": "SL-0005",
+  "Date": "2026-08-31",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -9879.46,
+  "MatchedTransactionID": "BT-0005"
+ },
+ {
+  "StatementLineID": "SL-0006",
+  "Date": "2026-08-28",
+  "Payee": "AUSTRALIANSUPER",
+  "Amount": -4312.4,
+  "MatchedTransactionID": "BT-0006"
+ },
+ {
+  "StatementLineID": "SL-0007",
+  "Date": "2026-08-01",
+  "Payee": "KEYSTONE PROPERTY TRUS",
+  "Amount": -5390.0,
+  "MatchedTransactionID": "BT-0007"
+ },
+ {
+  "StatementLineID": "SL-0008",
+  "Date": "2026-08-12",
+  "Payee": "AUSGRID ENERGY",
+  "Amount": -612.37,
+  "MatchedTransactionID": "BT-0008"
+ },
+ {
+  "StatementLineID": "SL-0009",
+  "Date": "2026-08-14",
+  "Payee": "TELSTRA",
+  "Amount": -318.9,
+  "MatchedTransactionID": "BT-0009"
+ },
+ {
+  "StatementLineID": "SL-0010",
+  "Date": "2026-08-19",
+  "Payee": "METRO WASTE SERVICES",
+  "Amount": -880.0,
+  "MatchedTransactionID": "BT-0010"
+ },
+ {
+  "StatementLineID": "SL-0011",
+  "Date": "2026-08-22",
+  "Payee": "HARTWELL CFO ADVISORY",
+  "Amount": -2750.0,
+  "MatchedTransactionID": "BT-0011"
+ },
+ {
+  "StatementLineID": "SL-0012",
+  "Date": "2026-08-05",
+  "Payee": "XERO AUSTRALIA",
+  "Amount": -99.0,
+  "MatchedTransactionID": "BT-0012"
+ },
+ {
+  "StatementLineID": "SL-0013",
+  "Date": "2026-08-02",
+  "Payee": "COLES EXPRESS",
+  "Amount": -143.22,
+  "MatchedTransactionID": "BT-0013"
+ },
+ {
+  "StatementLineID": "SL-0014",
+  "Date": "2026-08-06",
+  "Payee": "COLES EXPRESS",
+  "Amount": -142.33,
+  "MatchedTransactionID": "BT-0014"
+ },
+ {
+  "StatementLineID": "SL-0015",
+  "Date": "2026-08-09",
+  "Payee": "COLES EXPRESS",
+  "Amount": -88.13,
+  "MatchedTransactionID": "BT-0015"
+ },
+ {
+  "StatementLineID": "SL-0016",
+  "Date": "2026-08-13",
+  "Payee": "COLES EXPRESS",
+  "Amount": -136.25,
+  "MatchedTransactionID": "BT-0016"
+ },
+ {
+  "StatementLineID": "SL-0017",
+  "Date": "2026-08-16",
+  "Payee": "COLES EXPRESS",
+  "Amount": -122.71,
+  "MatchedTransactionID": "BT-0017"
+ },
+ {
+  "StatementLineID": "SL-0018",
+  "Date": "2026-08-20",
+  "Payee": "COLES EXPRESS",
+  "Amount": -132.66,
+  "MatchedTransactionID": "BT-0018"
+ },
+ {
+  "StatementLineID": "SL-0019",
+  "Date": "2026-08-23",
+  "Payee": "COLES EXPRESS",
+  "Amount": -156.53,
+  "MatchedTransactionID": "BT-0019"
+ },
+ {
+  "StatementLineID": "SL-0020",
+  "Date": "2026-08-27",
+  "Payee": "COLES EXPRESS",
+  "Amount": -159.01,
+  "MatchedTransactionID": "BT-0020"
+ },
+ {
+  "StatementLineID": "SL-0021",
+  "Date": "2026-08-30",
+  "Payee": "COLES EXPRESS",
+  "Amount": -115.69,
+  "MatchedTransactionID": "BT-0021"
+ },
+ {
+  "StatementLineID": "SL-0022",
+  "Date": "2026-08-04",
+  "Payee": "BUNNINGS TRADE",
+  "Amount": -2739.98,
+  "MatchedTransactionID": "BT-0022"
+ },
+ {
+  "StatementLineID": "SL-0023",
+  "Date": "2026-08-07",
+  "Payee": "BUNNINGS TRADE",
+  "Amount": -870.35,
+  "MatchedTransactionID": "BT-0023"
+ },
+ {
+  "StatementLineID": "SL-0024",
+  "Date": "2026-08-11",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -3339.23,
+  "MatchedTransactionID": "BT-0024"
+ },
+ {
+  "StatementLineID": "SL-0025",
+  "Date": "2026-08-15",
+  "Payee": "REECE PLUMBING SUPPLY",
+  "Amount": -1267.89,
+  "MatchedTransactionID": "BT-0025"
+ },
+ {
+  "StatementLineID": "SL-0026",
+  "Date": "2026-08-18",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -525.73,
+  "MatchedTransactionID": "BT-0026"
+ },
+ {
+  "StatementLineID": "SL-0027",
+  "Date": "2026-08-21",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -3359.46,
+  "MatchedTransactionID": "BT-0027"
+ },
+ {
+  "StatementLineID": "SL-0028",
+  "Date": "2026-08-25",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -2193.06,
+  "MatchedTransactionID": "BT-0028"
+ },
+ {
+  "StatementLineID": "SL-0029",
+  "Date": "2026-08-29",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -2035.87,
+  "MatchedTransactionID": "BT-0029"
+ },
+ {
+  "StatementLineID": "SL-0030",
+  "Date": "2026-08-08",
+  "Payee": "PINEWOOD JOINERY",
+  "Amount": -7847.29,
+  "MatchedTransactionID": "BT-0030"
+ },
+ {
+  "StatementLineID": "SL-0031",
+  "Date": "2026-08-15",
+  "Payee": "PINEWOOD JOINERY",
+  "Amount": -7822.99,
+  "MatchedTransactionID": "BT-0031"
+ },
+ {
+  "StatementLineID": "SL-0032",
+  "Date": "2026-08-22",
+  "Payee": "COASTAL ELECTRICAL CON",
+  "Amount": -8037.69,
+  "MatchedTransactionID": "BT-0032"
+ },
+ {
+  "StatementLineID": "SL-0033",
+  "Date": "2026-08-29",
+  "Payee": "PINEWOOD JOINERY",
+  "Amount": -8414.41,
+  "MatchedTransactionID": "BT-0033"
+ },
+ {
+  "StatementLineID": "SL-0034",
+  "Date": "2026-08-06",
+  "Payee": "BRIGHTWATER DENTAL GRO",
+  "Amount": 38500.0,
+  "MatchedTransactionID": "BT-0034"
+ },
+ {
+  "StatementLineID": "SL-0035",
+  "Date": "2026-08-13",
+  "Payee": "NORTHSIDE PHYSIO PTY L",
+  "Amount": 21780.0,
+  "MatchedTransactionID": "BT-0035"
+ },
+ {
+  "StatementLineID": "SL-0036",
+  "Date": "2026-08-20",
+  "Payee": "KESTREL CAFE GROUP",
+  "Amount": 16940.0,
+  "MatchedTransactionID": "BT-0036"
+ },
+ {
+  "StatementLineID": "SL-0037",
+  "Date": "2026-08-27",
+  "Payee": "BRIGHTWATER DENTAL GRO",
+  "Amount": 27500.0,
+  "MatchedTransactionID": "BT-0037"
+ },
+ {
+  "StatementLineID": "SL-0038",
+  "Date": "2026-08-05",
+  "Payee": "ATLASSIAN (OVERSEAS)",
+  "Amount": -138.6,
+  "MatchedTransactionID": "BT-0038"
+ },
+ {
+  "StatementLineID": "SL-0039",
+  "Date": "2026-08-31",
+  "Payee": "COMMONWEALTH BANK",
+  "Amount": 41.18,
+  "MatchedTransactionID": "BT-0039"
+ },
+ {
+  "StatementLineID": "SL-0040",
+  "Date": "2026-08-18",
+  "Payee": "OFFICEWORKS",
+  "Amount": -649.0,
+  "MatchedTransactionID": "BT-0040"
+ },
+ {
+  "StatementLineID": "SL-0041",
+  "Date": "2026-08-31",
+  "Payee": "COMMONWEALTH BANK",
+  "Amount": -10.0,
+  "MatchedTransactionID": "BT-0041"
+ },
+ {
+  "StatementLineID": "SL-0042",
+  "Date": "2026-08-31",
+  "Payee": "COMMONWEALTH BANK",
+  "Amount": -64.9,
+  "MatchedTransactionID": "BT-0042"
+ },
+ {
+  "StatementLineID": "SL-0043",
+  "Date": "2026-08-26",
+  "Payee": "RIDGE TILING (SOLE TRA",
+  "Amount": -3960.0,
+  "MatchedTransactionID": "BT-0043"
+ },
+ {
+  "StatementLineID": "SL-0044",
+  "Date": "2026-08-17",
+  "Payee": "PAYROLL CLEARING",
+  "Amount": -3300.0,
+  "MatchedTransactionID": "BT-0044"
+ },
+ {
+  "StatementLineID": "SL-0045",
+  "Date": "2026-08-09",
+  "Payee": "LAMINEX DIRECT",
+  "Amount": -2178.0,
+  "MatchedTransactionID": "BT-0045"
+ },
+ {
+  "StatementLineID": "SL-0046",
+  "Date": "2026-08-16",
+  "Payee": "JB HI-FI BUSINESS",
+  "Amount": -2899.0,
+  "MatchedTransactionID": "BT-0046"
+ },
+ {
+  "StatementLineID": "SL-0047",
+  "Date": "2026-08-22",
+  "Payee": "PINEWOOD JOINERY",
+  "Amount": -6380.0,
+  "MatchedTransactionID": "BT-0047"
+ },
+ {
+  "StatementLineID": "SL-0048",
+  "Date": "2026-08-23",
+  "Payee": "WOOLWORTHS",
+  "Amount": -214.35,
+  "MatchedTransactionID": "BT-0048"
+ },
+ {
+  "StatementLineID": "SL-0049",
+  "Date": "2026-08-02",
+  "Payee": "QBE INSURANCE",
+  "Amount": -5280.0,
+  "MatchedTransactionID": "BT-0049"
+ },
+ {
+  "StatementLineID": "SL-0050",
+  "Date": "2026-08-11",
+  "Payee": "REECE PLUMBING SUPPLY",
+  "Amount": -1848.0,
+  "MatchedTransactionID": "BT-0050"
+ },
+ {
+  "StatementLineID": "SL-0051",
+  "Date": "2026-08-24",
+  "Payee": "COASTAL ELECTRICAL CON",
+  "Amount": -1524.0,
+  "MatchedTransactionID": "BT-0052"
+ },
+ {
+  "StatementLineID": "SL-0052",
+  "Date": "2026-08-28",
+  "Payee": "ATO PAYMENT",
+  "Amount": -8420.0,
+  "MatchedTransactionID": null
+ }
+]

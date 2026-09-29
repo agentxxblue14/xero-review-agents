@@ -1,0 +1,30 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "mcp__xero__get_organisation",
+      "mcp__xero__list_accounts",
+      "mcp__xero__list_contacts",
+      "mcp__xero__list_bank_transactions",
+      "mcp__xero__get_bank_statement",
+      "mcp__xero__get_account_totals",
+      "mcp__xero__queue_review_item",
+      "Read(review/**)",
+      "Write(review/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__xero__post_manual_journal",
+        "hooks": [{ "type": "command", "command": "python hooks/review_gate.py" }]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "mcp__xero__.*",
+        "hooks": [{ "type": "command", "command": "python hooks/audit_log.py" }]
+      }
+    ]
+  }
+}

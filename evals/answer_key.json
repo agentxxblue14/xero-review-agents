@@ -1,0 +1,94 @@
+{
+ "planted": [
+  {
+   "id": "BT-0042",
+   "category": "gst",
+   "issue": "Bank fee coded with GST on Expenses; bank fees are input taxed, no GST credit.",
+   "expected_fix": "Change tax rate to GST Free Expenses / input taxed; GST claimed 5.90 reverses."
+  },
+  {
+   "id": "BT-0043",
+   "category": "gst",
+   "issue": "GST credit claimed on a bill from a supplier not registered for GST.",
+   "expected_fix": "Code as GST Free Expenses; 360.00 GST credit is not claimable. Ask supplier for a tax invoice only if they have since registered."
+  },
+  {
+   "id": "BT-0044",
+   "category": "gst",
+   "issue": "Wages coded with GST on Expenses; wages are BAS excluded.",
+   "expected_fix": "Change tax rate to BAS Excluded; 300.00 GST credit reverses."
+  },
+  {
+   "id": "BT-0045",
+   "category": "gst",
+   "issue": "GST is 217.80, which is 10% of the total, not 1/11. Should be 198.00.",
+   "expected_fix": "Correct GST to 198.00 so net is 1,980.00."
+  },
+  {
+   "id": "BT-0046",
+   "category": "coding",
+   "issue": "2,899 laptop expensed to Repairs and Maintenance; over the 1,000 capitalise threshold.",
+   "expected_fix": "Recode to 720 Computer Equipment and depreciate."
+  },
+  {
+   "id": "BT-0047",
+   "category": "coding",
+   "issue": "Subcontractor progress claim coded to Materials.",
+   "expected_fix": "Recode to 315 Subcontractors so job cost splits stay right."
+  },
+  {
+   "id": "BT-0048",
+   "category": "coding",
+   "issue": "Grocery shop on the company card, no business purpose on the receipt.",
+   "expected_fix": "Query the owner; likely 880 Owner A Drawings with no GST."
+  },
+  {
+   "id": "BT-0048",
+   "category": "gst",
+   "issue": "Full GST credit claimed on groceries with no business purpose.",
+   "expected_fix": "If private, no GST credit: 19.49 reverses with the recode to drawings."
+  },
+  {
+   "id": "BT-0049",
+   "category": "coding",
+   "issue": "Twelve months of insurance expensed in August.",
+   "expected_fix": "Code to 620 Prepayments and release 400.00 a month, 1/12 of the ex-GST 4,800.00."
+  },
+  {
+   "id": "BT-0051",
+   "category": "recon",
+   "issue": "Duplicate of BT-0050: same supplier, amount and invoice number, not on the bank statement.",
+   "expected_fix": "Delete the duplicate; 1,848.00 of cost and 168.00 of GST are double counted."
+  },
+  {
+   "id": "BT-0052",
+   "category": "recon",
+   "issue": "Recorded as 1,254.00 but the bank paid 1,524.00 (digits transposed).",
+   "expected_fix": "Correct to 1,524.00 against the supplier's claim; check the claim first."
+  },
+  {
+   "id": "SL-0052",
+   "category": "recon",
+   "issue": "8,420.00 ATO payment on the bank statement with nothing in Xero.",
+   "expected_fix": "Code to the ATO integrated client account after checking the BAS it pays; not an expense."
+  }
+ ],
+ "must_not_flag": [
+  {
+   "id": "BT-0038",
+   "why_it_is_correct": "Overseas supplier, no GST charged, so no GST credit. GST-free coding is correct."
+  },
+  {
+   "id": "BT-0039",
+   "why_it_is_correct": "Interest income is input taxed / BAS excluded. Correct as coded."
+  },
+  {
+   "id": "BT-0040",
+   "why_it_is_correct": "Under the $1,000 capitalise threshold, so expensing it is the firm's policy."
+  },
+  {
+   "id": "BT-0041",
+   "why_it_is_correct": "Bank fee coded to Bank Fees with no GST. Correct."
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+Findings queued       11 (11 unique id+category)
+Planted errors found  10 of 11   recall    91%
+Correct findings      10 of 11   precision 91%
+  gst     3 of 4
+  coding  4 of 4
+  recon   3 of 3
+Traps flagged         0 of 4
+Duplicate findings    0
+Journals posted       0
+  MISSED  BT-0042  gst     Bank fee coded with GST on Expenses; bank fees are input taxed, no GST credit.
+  EXTRA   BT-0048  gst     not in the answer key, needs a human look
+RESULT  PASS  (thresholds: recall 90%, precision 85%, 0 posted)

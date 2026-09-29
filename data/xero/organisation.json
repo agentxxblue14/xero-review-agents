@@ -1,0 +1,12 @@
+{
+ "Name": "Harbourline Interiors Pty Ltd (DEMO)",
+ "BaseCurrency": "AUD",
+ "CountryCode": "AU",
+ "PeriodStart": "2026-08-01",
+ "PeriodEnd": "2026-08-31",
+ "GSTBasis": "ACCRUALS",
+ "Policies": {
+  "CapitaliseThreshold": 1000.0,
+  "RequireABNForGSTCredit": true
+ }
+}
